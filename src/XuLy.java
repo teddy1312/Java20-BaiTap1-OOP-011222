@@ -14,6 +14,7 @@ public class XuLy {
         do{
             System.out.print("Nhấn 1 để tiếp tục, 2 để thoát : ");
             chon = Byte.parseByte(scan.nextLine());
+
             switch (chon){
                 case 1:
                     sinhVien = new SinhVien();
