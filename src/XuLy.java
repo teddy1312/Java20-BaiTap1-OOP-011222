@@ -28,7 +28,9 @@ public class XuLy {
                     System.out.println("Vui lòng chỉ chọn 1 hoặc 2");
                     break;
             }
+
         } while(chon!=2);
+
     }
 
 }
